@@ -1,13 +1,6 @@
-# Supabase Next.js User Management
+# supabase-auth-system
 
-This example will set you up for a very common situation: users can sign up with a magic link and then update their account with public profile information, including a profile image.
-
-This demonstrates how to use:
-
-- User signups using Supabase [Auth](https://supabase.io/auth).
-- User avatar images using Supabase [Storage](https://supabase.io/storage).
-- Public profiles restricted with [Policies](https://supabase.io/docs/guides/auth#policies).
-- Frontend using [Next.js](<[nextjs.org/](https://nextjs.org/)>).
+This is an authenticating system built using Nextjs and Supabase
 
 ## Technologies used
 
